@@ -1,8 +1,8 @@
 # vidly-mvc5
 ## Learning MVC5
 
-This is a basic project layout for learning and improving the MVC.  The aim was to fully understand MVC to aid
-in creating of my website (http://www.milexconsulting.uk) in .Net Core MVC.
+This is a basic project used while learning MVC 5.  The aim was to fully understand MVC to aid
+in creating my website (http://www.milexconsulting.uk) which will be in .Net Core MVC.
 
 ## Framework used
 * .Net framework 4.6.1
