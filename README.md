@@ -32,6 +32,5 @@ The project can be improved by;
 * follow me on LinkedIn: https://www.linkedin.com/in/thomas-kibaru-734a729b/
 * follow me on YouTube: where I will start uploading materials:  https://www.youtube.com/channel/UCAWPs-_9QYJB33ocgjWhYPg?view_as=subscriber
 * You can also get me via the aforementioned websites
-* For projects work PeoplePerHour: https://www.peopleperhour.com/freelancer/admin/thomas-kibaru-software-engineer-znjajz
 
 
