@@ -27,3 +27,9 @@ The project can be improved by;
 ## Other
 * Feel free to use the project as a learning curve
 
+## Contacting me
+* follow me on LinkedIn: https://www.linkedin.com/in/thomas-kibaru-734a729b/
+* YouTube where I will start uploading materials:  https://www.youtube.com/channel/UCAWPs-_9QYJB33ocgjWhYPg?view_as=subscriber
+* You can also get me via the aforementioned websites
+
+
